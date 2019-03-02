@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -71,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # embue
 tutorial
 >>>>>>> dd3eb3281a40c212763b6d103eeeb9e633498a0e
+=======
+
+>>>>>>> 7e34be6920e1baa9fd6422a479386dbafa9d99f6
